@@ -14,6 +14,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic, strong) NSObject *deve;
 
+@property (nonatomic, strong) NSObject *addNewDeve;
+
 @end
 
 NS_ASSUME_NONNULL_END
