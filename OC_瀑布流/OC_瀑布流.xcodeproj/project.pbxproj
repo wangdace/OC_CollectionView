@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B41133F2243869CA00332F47 /* Developer.m in Sources */ = {isa = PBXBuildFile; fileRef = B41133F1243869CA00332F47 /* Developer.m */; };
 		E552E43C1F14711F00CCD1AF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E552E43B1F14711F00CCD1AF /* main.m */; };
 		E552E43F1F14711F00CCD1AF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E552E43E1F14711F00CCD1AF /* AppDelegate.m */; };
 		E552E4421F14711F00CCD1AF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E552E4411F14711F00CCD1AF /* ViewController.m */; };
@@ -57,6 +58,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B41133F0243869CA00332F47 /* Developer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Developer.h; sourceTree = "<group>"; };
+		B41133F1243869CA00332F47 /* Developer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Developer.m; sourceTree = "<group>"; };
 		E552E4371F14711F00CCD1AF /* OC_瀑布流.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "OC_瀑布流.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E552E43B1F14711F00CCD1AF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E552E43D1F14711F00CCD1AF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -178,6 +181,8 @@
 				E552E4411F14711F00CCD1AF /* ViewController.m */,
 				E552E4731F147E0D00CCD1AF /* TestModel.h */,
 				E552E4741F147E0D00CCD1AF /* TestModel.m */,
+				B41133F0243869CA00332F47 /* Developer.h */,
+				B41133F1243869CA00332F47 /* Developer.m */,
 				E552E4761F147ECC00CCD1AF /* CustomViewCell.h */,
 				E552E4771F147ECC00CCD1AF /* CustomViewCell.m */,
 				E552E4431F14711F00CCD1AF /* Main.storyboard */,
@@ -362,6 +367,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -424,6 +430,7 @@
 				E552E4BB1F14A7FA00CCD1AF /* SDWebImagePrefetcher.m in Sources */,
 				E552E4B91F14A7FA00CCD1AF /* SDWebImageDownloaderOperation.m in Sources */,
 				E552E4781F147ECC00CCD1AF /* CustomViewCell.m in Sources */,
+				B41133F2243869CA00332F47 /* Developer.m in Sources */,
 				E552E4901F14A3F700CCD1AF /* UIView+SDAutoLayout.m in Sources */,
 				E552E4BE1F14A7FA00CCD1AF /* UIImage+MultiFormat.m in Sources */,
 				E552E4701F14719E00CCD1AF /* UUCollectionViewFlowLayout.m in Sources */,
